@@ -1,0 +1,33 @@
+==============================================================================
+AI USE DISCLOSURE STATEMENT
+Activity: Asynchronous Activity No. 2 - One Molecule, Four Representations
+Course: CHEM 13
+Student Name: [Insert Your Full Name]
+Repository Path: 001_structure_bonding_[lastname]/002_one_molecule_four_representations_[lastname]/
+==============================================================================
+
+AI TOOL UTILIZED
+----------------
+Tool Name: Gemini 3 Flash (Google AI)
+Role: Virtual Tutor, Technical Assistant, and Chemical Structure Inspector
+
+SCOPE OF AI ASSISTANCE
+----------------------
+1. Ketcher Software Navigation & Technical Support:
+   - Received step-by-step guidance on locating and utilizing specific Ketcher canvas tools (e.g., Chain Tool, Single/Double Bond Tools, Ring Templates, and Atom Palettes).
+   - Received troubleshooting steps to resolve formatting issues in Ketcher, such as displaying terminal hydroxyl (-OH) groups and applying structural auto-cleanup functions.
+
+2. Bond-Line / Skeletal Notation Verification:
+   - Evaluated user-drawn chemical structures (including Ethyl Acetate, Acetaminophen, Aspirin, and Caffeine) against standard IUPAC skeletal drawing conventions.
+   - Clarified rules regarding implicit vs. explicit drawing conventions, such as keeping terminal methyl (-CH3) carbons and attached hydrogens implicit.
+
+3. Module Specification & File Formatting Support:
+   - Confirmed the required repository subfolder structures, naming conventions, and file export formats (.png / .svg) as mandated by the activity guidelines.
+
+STUDENT STATEMENT OF ORIGINALITY & INTEGRITY
+---------------------------------------------
+All molecular representations, Ketcher chemical structure drawings, visual portfolio cards, and document assemblies were individually drawn, arranged, and finalized by the student. AI interaction was restricted to software guidance, structure verification, and formatting clarity in full compliance with the course academic integrity standards.
+
+Date: [Insert Date]
+Signature / Name: [Insert Your Name]
+==============================================================================
