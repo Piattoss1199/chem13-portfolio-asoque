@@ -1,0 +1,38 @@
+AI AND DIGITAL TOOL USE DISCLOSURE
+CHEM 13 - Asynchronous Activity No. 3: Name It, Draw It
+Student: Efren John N. Asoque, BS Chemical Engineering 2B
+Bicol University, College of Engineering, Department of Chemical Engineering
+
+1. NAMING AND CHECKING TOOL
+
+The Alkane (thealkane.com)
+- Part A: Each given structure was rebuilt atom-by-atom in The Alkane to verify my typed IUPAC names. The returned name and match/mismatch verdict were documented on every card.
+- Part B: Every structure was drawn in The Alkane using the assigned names to perform a back-check against the returned systematic names. The results and verdicts were recorded on each card.
+- No other automated naming engine was used.
+
+2. PRESENTATION AND GRAPHIC SOFTWARE
+
+Canva
+- Used to construct the 20-card digital portfolio layout, place given bond-line structures from the image pack, digitally highlight parent chains/rings, and overlay carbon locant numbers.
+
+3. AI TOOL
+
+Gemini (Google)
+I used Gemini as an educational and editing aid in accordance with Section 09 of the activity guidelines. Specifically, I used Gemini to:
+- Explain and clarify IUPAC nomenclature rules (including parent chain selection, term-by-term locant set comparison at the first point of difference, ring priority, and alphabetical tie-breakers);
+- Guide the step-by-step workflow for assembling Part A and Part B cards according to Appendix A template standards;
+- Refine the formatting, grammar, and clarity of my naming trails and card explanations;
+- Check the visual placement of carbon locants and parent highlights against IUPAC numbering rules.
+
+I derived all IUPAC names, counted molecular formulas, and analyzed structural connectivity independently before consulting Gemini. Gemini's explanations were checked critically against the course rules in Appendix B. The Alkane served strictly as a checker rather than a source of answers.
+
+4. STATEMENT OF RESPONSIBILITY
+
+I have reviewed every IUPAC name, structural drawing, molecular formula calculation, and explanatory trail in this portfolio, and I take full responsibility for their correctness.
+
+Respectfully,
+Efren John N. Asoque
+BS Chemical Engineering 2B
+
+References:
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved November 7, 2026, from https://thealkane.com/
